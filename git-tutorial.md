@@ -5,22 +5,22 @@ Además, Git es realmente útil cuando estás trabajando en un equipo. Si tú y 
 
 ## **Preguntas y respuestas**
 
-1.¿Qué es el control de versiones? 
+1. ¿Qué es el control de versiones? 
 
   El control de versiones en Git es una práctica que permite rastrear y gestionar los cambios en el código de software. 
 
-2.¿Qué es “clone” en Git?
+2. ¿Qué es “clone” en Git?
 
   Se utiliza para crear una copia de un repositorio existente en un nuevo directorio.
 
-3.¿Cuál es el comando para rastrear y preparar archivos?
+3. ¿Cuál es el comando para rastrear y preparar archivos?
 
   git add
 
-4.¿Cuál es el comando para tomar una instantánea de los archivos modificados?
+4. ¿Cuál es el comando para tomar una instantánea de los archivos modificados?
 
   git commit
 
-5.¿Cuál es el comando para enviar los archivos modificados a Github?
+5. ¿Cuál es el comando para enviar los archivos modificados a Github?
 
   git push
