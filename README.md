@@ -1,11 +1,18 @@
-# **Notas de Lectura**
 
-## **Growth-mindset**
+# **Notas de Lectura del Código 102**
 
-El ***growth-mindset*** es una filosofía que dice que todas las personas tienen la habilidad de aprender cosas nuevas. 
-Nos ayuda recordar que:
-1. Mantener la calma y revisar el problema cuidadosamente para encontrar nuevas posibles soluciones.
-2. Reconocer si estoy evitando una situación.
-3. Dejar de autocriticarme y ser más positiva.
-   
-Para más información click [aquí](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+## **Introducción**
+
+Mi nombre es Jessica Palacios y soy estudiante en ***Enter Tech School*** 
+
+Estoy cursando Code 102.
+
+## **Descripción**
+
+Este sitio web habla de algunas de las herramientas básicas de programación.
+
+## **Tabla de contenidos**
+
+1. [Markdown](https://jessicapy.github.io/reading-notes/markdown.html).
+2. [GIT](https://jessicapy.github.io/reading-notes/git-tutorial.html).
+3. [Editor de texto](https://jessicapy.github.io/reading-notes/editor-de-texto.html).
