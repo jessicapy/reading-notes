@@ -24,36 +24,23 @@ Al igual que en tu dibujo, donde decides qué y dónde dibujar, en HTML decides 
 
 **1. ¿Qué es HTML y por qué lo usamos?**
 
-  1. Autocompletar código.
+  El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
 
-  2. Resaltado de sintaxis.
-     
-  3. Variedad de temas (para reducir la fatiga visual).
-    
-  4. La posibilidad de elegir entre una amplia selección de extensiones disponibles cuando sean necesarias. 
+  HTML no es un lenguaje de programación; es un lenguaje de marcado que define la estructura de tu contenido. HTML consiste en una serie de elementos que usarás para encerrar diferentes partes del contenido para que se vean o comporten de una determinada manera. Las etiquetas de encierre pueden hacer de una palabra o una imagen un hipervínculo a otro sitio, se pueden cambiar palabras a cursiva, agrandar o achicar la letra, etc.
 
-**2. ¿Qué hacen los siguientes comandos?**
+**2. ¿Cuáles son las 3 partes principales de un elemento HTML?**
 
-  - pwd = Imprime el directorio de trabajo.
+  - Las etiquetas de apertura y de cierre.
         
-  - ls = Te muestra la lista de todos los archivos y carpetas que están en tu directorio de trabajo actual.
+  - El contenido.
         
-  - cd = Cambia el directorio. Hay que darle la ruta del directorio al que quieres ir.
+  - El elemento.
         
-  - mkdir = Crea un nuevo directorio. Hay que darle el nombre del nuevo directorio a crear.
+**3. ¿Cómo se llama cuando le das información extra a un elemento?**
         
-  - touch = Crea un nuevo archivo vacío. Hay que darle el nombre del nuevo archivo.
+  - Atributos.
         
-**3. ¿Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comandos? (Los argumentos son instrucciones adicionales dadas a un comando).**
+**4. ¿Qué es un elemento semántico?**
         
-  - cd projects = Te lleva al directorio projects. 
-        
-  - mkdir new-project = Crea el directorio new-project.
-        
-  - touch new-project/newfile.md = Crea el archivo newfile.md dentro del directorio new-project
-        
-  - cd .. = Te lleva al directorio padre.
-        
-  - ls projects/new-project = Te muestra la lista de todos los archivos y carpetas que están en el directorio projects.
-
+  - Los elementos semánticos son aquellos que describen claramente su significado de una manera legible tanto para humanos como para máquinas. En el contexto de HTML, elementos como header, footer y article son considerados semánticos porque describen con precisión el propósito del elemento y el tipo de contenido que hay dentro de ellos. Estas etiquetas permiten describir el tipo de contenido que se encuentra dentro de ellas, lo que facilita la comprensión tanto para los desarrolladores como para los motores de búsqueda.
 
