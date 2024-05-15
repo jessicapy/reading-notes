@@ -17,7 +17,7 @@ El “Control Flow” (Flujo de Control) en JavaScript se refiere al orden en el
 El flujo de control se regula mediante declaraciones de control, que son usadas para determinar si un conjunto de declaraciones se ejecutan basándose en un conjunto definido de criterios, ejecutar un conjunto de declaraciones repetidamente, o interrumpir una secuencia de declaraciones.
 Algunos ejemplos de declaraciones de control en JavaScript:
 
-* Declaraciones condicionales (if, else, switch): Estas  declaraciones determinan si el código debe ejecutarse basándose en una o más condiciones3. Por ejemplo, puedes usar la declaración if para ejecutar una declaración si una condición lógica es verdadera. Y puedes usar la cláusula else opcional para ejecutar una declaración si la condición es falsa.
+* Declaraciones condicionales (if, else, switch): Estas  declaraciones determinan si el código debe ejecutarse basándose en una o más condiciones. Por ejemplo, puedes usar la declaración if para ejecutar una declaración si una condición lógica es verdadera. Y puedes usar la cláusula else opcional para ejecutar una declaración si la condición es falsa.
 
 * Bucles (for, while, do-while): Los bucles se utilizan para ejecutar repetidamente un bloque de código hasta que se cumple una condición específica.
 
