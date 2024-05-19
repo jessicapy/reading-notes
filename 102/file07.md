@@ -23,7 +23,6 @@ Algunos ejemplos de declaraciones de control en JavaScript:
 
 * Funciones: Las funciones permiten agrupar un conjunto de declaraciones que realizan una tarea específica. Cuando se llama a la función, se ejecutan estas declaraciones.
 
-
 **2. ¿Qué es una “function” (Función) de JavaScript?**
 
 Una función en JavaScript es uno de los bloques de construcción fundamentales del lenguaje. Es similar a un procedimiento, es decir, un conjunto de instrucciones que realiza una tarea o calcula un valor.
