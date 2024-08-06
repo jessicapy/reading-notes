@@ -1,0 +1,42 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    transform: translate(250px, 300px);
+  }
+  
+  .box2 {
+    width: 200px;
+    height: 200px;
+    background-color: darkorange;
+    /* deg = grados */
+    transform: translate(15px, 37px) rotate(120deg);
+  }
+  
+  .box2:hover {
+    background-color: red;
+    transform: translate(50px, 100px) rotate(180deg);
+  }
+  
+  .circle {
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    border-radius: 50%;
+  }
+  .circle:hover {
+    transform: skew(120deg, 140deg);
+  }
+  .btn {
+    background-color: coral;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 12px;
+    color: #fff;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .btn:hover {
+    transform: scale(1.2);
+  }
+  
