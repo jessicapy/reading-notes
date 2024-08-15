@@ -118,6 +118,6 @@ En React, los **props** (abreviatura de "properties") son una forma de pasar dat
    }
    ```
 
-**Props son de solo lectura**: Los props son inmutables, lo que significa que el componente hijo no puede modificar los props que recibe. Si necesitas cambiar los datos, debes hacerlo en el componente padre y pasar los datos actualizados nuevamente como props⁴.
+**Props son de solo lectura**: Los props son inmutables, lo que significa que el componente hijo no puede modificar los props que recibe. Si necesitas cambiar los datos, debes hacerlo en el componente padre y pasar los datos actualizados nuevamente como props.
 
-**Flujo unidireccional**: El flujo de datos en React es unidireccional, es decir, los datos fluyen de los componentes padres a los hijos. Esto ayuda a mantener la lógica de la aplicación clara y predecible⁴.
+**Flujo unidireccional**: El flujo de datos en React es unidireccional, es decir, los datos fluyen de los componentes padres a los hijos. Esto ayuda a mantener la lógica de la aplicación clara y predecible.
